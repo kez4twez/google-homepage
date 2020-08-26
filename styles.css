@@ -101,6 +101,11 @@ nav ul li:hover {
     opacity: .85;
     text-decoration: underline;
 }
+
+#align-left:hover {
+    opacity: .85;
+    text-decoration: underline;
+}
 /* nav end */
 
 /* Google logo start */
